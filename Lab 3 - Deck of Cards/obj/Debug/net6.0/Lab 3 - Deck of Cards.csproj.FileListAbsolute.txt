@@ -1,0 +1,30 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\refint\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\Lab 3 - Deck of Cards\Lab 3 - Deck of Cards\obj\Debug\net6.0\ref\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\bin\Debug\net6.0\Lab 3 - Deck of Cards.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\refint\Lab 3 - Deck of Cards.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\Lab 3 - Deck of Cards.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab3\Lab 3 - Deck of Cards\obj\Debug\net6.0\ref\Lab 3 - Deck of Cards.dll
